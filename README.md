@@ -39,7 +39,7 @@ Stack of technologies in project:
 This command must get data from the file road_to_treasure.txt, encrypt the data with the key 5,
 create a file called protected.txt and write ciphertext to it. File road_to_treasure.txt is already exist in the corner catalog.
 
-##### Example 2
+###### Example 2
 
 ###### Input:
 
